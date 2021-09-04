@@ -5,7 +5,9 @@
 * Signup, Login and Logout Pages and Functions with Django Backend.
 
   * See `./img` if you want to check Pages.
-  
+
+    <img src="./img/signup.png" width="70%">
+
 ## How to run
 * frontend
   * `cd client`
